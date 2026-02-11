@@ -14,6 +14,8 @@
 </p>
 <br>
 
+## Learning
+
 <img align="right" width = 300px height = 250px alt="Github" src="assets/_.gif" /><br>
 
 🛠️ Languages and Tools:
