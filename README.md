@@ -12,10 +12,16 @@
     <a href="(https://www.instagram.com/ana_villeda12/?hl=es)" alt="Instagram"><img src="assets/icons8-instagram-logo-50.svg"></a>
   </p>
 </p>
+<br>
 
-<p align="center">
-  <img src="assets/_.gif" width="400">
-</p>
+<img align="right" width = 300px height = 250px alt="Github" src="assets/_.gif" /><br>
+
+🛠️ Languages and Tools:
+
+- Lenguajes: Python, JavaScript, SQL, C++, C#, Bash/Shell
+- Herramientas y Frameworks: Docker, VS Code, Jupyter Notebook, Pandas, NumPy, Power BI
+- Data: Análisis de datos, Machine Learning, Procesamiento, Visualización y Modelado de datos, Big Data, Limpieza y transformación (ETL)
+
 <!--
 **Villedana12/Villedana12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
