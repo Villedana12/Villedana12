@@ -7,9 +7,9 @@
   <i>Let's connect and chat!</i>
 
   <p align="center">
-    <a href="(https://www.linkedin.com/in/ana-luisa-villeda-anleu-129ab3343/)" alt="Linkedin"><img src="assets/icons8-linkedin-50.svg"></a>
+    <a href="https://www.linkedin.com/in/ana-luisa-villeda-anleu-129ab3343/" alt="Linkedin"><img src="assets/icons8-linkedin-50.svg"></a>
     <a href="mailto:villedanaluisa@icloud.com" alt="Contact me"><img src="assets/icons8-mail-50.svg"></a>
-    <a href="(https://www.instagram.com/ana_villeda12/?hl=es)" alt="Instagram"><img src="assets/icons8-instagram-logo-50.svg"></a>
+    <a href="https://www.instagram.com/ana_villeda12/?hl=es" alt="Instagram"><img src="assets/icons8-instagram-logo-50.svg"></a>
   </p>
 </p>
 
@@ -29,6 +29,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Villedana12&theme=light&ring=FA8072&fire=FA8072&currStreakLabel=FA8072&sideLabels=000000&dates=555555"
        alt="GitHub Streak" />
+
+  
 <img align="center" src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=Villedana12&show_icons=true&title_color=FA8072&icon_color=FA8072&text_color=000000&bg_color=FFFFFF"
        alt="GitHub Stats" />
 </p>
