@@ -27,11 +27,11 @@
 
 ## Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Villedana12&theme=light&ring=FA8072&fire=FA8072&currStreakLabel=FA8072&sideLabels=000000&dates=555555"
-       alt="GitHub Streak" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Villedana12&theme=light&ring=FA8072&fire=FA8072&currStreakLabel=FA8072&sideLabels=000000&dates=555555"
+       alt="GitHub Streak" /></p>
 
   
-<img align="center" src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=Villedana12&show_icons=true&title_color=FA8072&icon_color=FA8072&text_color=000000&bg_color=FFFFFF"
+<p align="center"><img align="center" src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=Villedana12&show_icons=true&title_color=FA8072&icon_color=FA8072&text_color=000000&bg_color=FFFFFF"
        alt="GitHub Stats" />
 </p>
 
