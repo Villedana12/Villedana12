@@ -13,7 +13,7 @@
   </p>
 </p>
 
-## Learning
+## Skills
 
 <img align="right" width = 300px height = 250px alt="Github" src="assets/_.gif" />
 
